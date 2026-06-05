@@ -1,20 +1,14 @@
-# LinkedIn Recruiter Sourcing Playbook
+## Guides
 
-A practical guide for recruiters to source high-quality candidates using LinkedIn Recruiter, LinkedIn Search, X-Ray Search, and Boolean Search.
+- [LinkedIn Search Basics](docs/linkedin-search-basics.md)
+- [Boolean Search Guide](docs/boolean-search-guide.md)
+- [X-Ray Search Guide](docs/xray-search-guide.md)
+- [Candidate Outreach](docs/candidate-outreach.md)
 
-## Topics Covered
+## Templates
 
-- LinkedIn Search Basics
-- Boolean Search Strings
-- X-Ray Search
-- Candidate Outreach
-- Talent Mapping
-- Diversity Sourcing
-- Sourcing Metrics
+- [LinkedIn InMail Template](templates/linkedin-inmail-template.md)
 
-## Who This Is For
+## Examples
 
-- US Recruiters
-- Technical Recruiters
-- Talent Acquisition Teams
-- Staffing Professionals
+- [Java Developer Search](examples/java-developer-search.md)
